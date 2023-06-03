@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:WpfApp">
+
+    <!-- элементы интерфейса -->
+    <v:String x:Key="m_Title">WPF приложение Десереализации/Сериализации</v:String>
+    <v:String x:Key="m_IdLable">Идетификатор</v:String>
+    <v:String x:Key="m_LoginLable">Логин</v:String>
+    <v:String x:Key="m_CreateButton">Создать</v:String>
+    <v:String x:Key="m_SerealizeButton">Сериализация</v:String>
+    <v:String x:Key="m_DeserealizeButton">Десереализация</v:String>
+
+</ResourceDictionary>
